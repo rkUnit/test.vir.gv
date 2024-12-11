@@ -1,0 +1,39 @@
+23:02:28.060 [main] INFO  testCases.TC001_AccountRegistrationTest - *** starting TC001_AccountRegistration***
+23:02:28.160 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on my account link***
+23:02:28.514 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register ***
+23:02:28.516 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing input details***
+23:02:29.999 [main] INFO  testCases.TC001_AccountRegistrationTest - *** validating expexted msg***
+23:02:30.061 [main] INFO  testCases.TC001_AccountRegistrationTest - TC001_AccountRegistartionPassed
+20:49:32.460 [main] INFO  testCases.TC002_LoginTest - *****Starting TC002_LoginTest*****
+20:50:02.915 [main] INFO  testCases.TC002_LoginTest - *****Starting TC002_LoginTest*****
+20:51:09.101 [main] INFO  testCases.TC002_LoginTest - *****Starting TC002_LoginTest*****
+20:59:00.094 [main] INFO  testCases.TC002_LoginTest - *****Starting TC002_LoginTest*****
+20:59:01.387 [main] INFO  testCases.TC002_LoginTest - *****Finished TC002_LoginTest*****
+21:02:18.646 [main] INFO  testCases.TC002_LoginTest - *****Starting TC002_LoginTest*****
+21:02:20.493 [main] INFO  testCases.TC002_LoginTest - *****Finished TC002_LoginTest*****
+19:04:50.049 [main] INFO  testCases.TC002_LoginTest - *****Starting TC002_LoginTest*****
+19:04:51.567 [main] INFO  testCases.TC002_LoginTest - *****Finished TC002_LoginTest*****
+19:07:36.616 [main] INFO  testCases.TC001_AccountRegistrationTest - *** starting TC001_AccountRegistration***
+19:07:36.870 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on my account link***
+19:07:37.269 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register ***
+19:07:37.273 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing input details***
+19:07:38.335 [main] INFO  testCases.TC001_AccountRegistrationTest - *** validating expexted msg***
+19:07:38.370 [main] INFO  testCases.TC001_AccountRegistrationTest - TC001_AccountRegistartionPassed
+19:07:39.878 [main] INFO  testCases.TC002_LoginTest - *****Starting TC002_LoginTest*****
+19:07:41.331 [main] INFO  testCases.TC002_LoginTest - *****Finished TC002_LoginTest*****
+19:41:19.788 [main] INFO  testCases.TC001_AccountRegistrationTest - *** starting TC001_AccountRegistration***
+19:41:20.143 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on my account link***
+19:41:20.911 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register ***
+19:41:20.911 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing input details***
+19:41:22.031 [main] INFO  testCases.TC001_AccountRegistrationTest - *** validating expexted msg***
+19:41:22.062 [main] INFO  testCases.TC001_AccountRegistrationTest - TC001_AccountRegistartionPassed
+19:41:23.869 [main] INFO  testCases.TC002_LoginTest - *****Starting TC002_LoginTest*****
+19:41:25.301 [main] INFO  testCases.TC002_LoginTest - *****Finished TC002_LoginTest*****
+19:42:48.534 [main] INFO  testCases.TC001_AccountRegistrationTest - *** starting TC001_AccountRegistration***
+19:42:48.855 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on my account link***
+19:42:49.249 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register ***
+19:42:49.252 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing input details***
+19:42:50.353 [main] INFO  testCases.TC001_AccountRegistrationTest - *** validating expexted msg***
+19:42:50.382 [main] INFO  testCases.TC001_AccountRegistrationTest - TC001_AccountRegistartionPassed
+19:42:52.100 [main] INFO  testCases.TC002_LoginTest - *****Starting TC002_LoginTest*****
+19:42:53.557 [main] INFO  testCases.TC002_LoginTest - *****Finished TC002_LoginTest*****
